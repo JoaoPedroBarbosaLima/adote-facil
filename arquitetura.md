@@ -12,7 +12,7 @@ O projeto implementa uma variação do padrão **MVC (Model-View-Controller)** c
 
 #### **Camada de Roteamento (Routes)**
 - **Arquivo**: `src/routes.ts`
-- **Responsabilidade**: Definição de endpoints HTTP e aplicação de middlewares
+- **Responsabilidade**: Definição de endpoints HTTP e aplicação de middlewares 
 - **Padrão**: Rotas RESTful bem definidas
 - **Autenticação**: Middleware `UserAuthMiddleware` aplicado em rotas protegidas
 
